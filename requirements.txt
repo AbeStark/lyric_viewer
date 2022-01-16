@@ -1,0 +1,2 @@
+dearpygui~=1.2.3
+lyricsgenius~=3.0.1
